@@ -1,0 +1,26 @@
+{
+  "tenant_id": "demo-tenant",
+  "user_id": "demo-user",
+  "facts": [
+    {
+      "content": "完成支付渠道接口联调，等待业务验收",
+      "occurred_at": "2026-10-29",
+      "business": "交易渠道",
+      "project": "渠道接入",
+      "contribution": "completed",
+      "confidence": 0.92,
+      "source_url": "https://example.feishu.cn/docx/REDACTED",
+      "source_excerpt": "接口联调已完成，等待业务验收"
+    },
+    {
+      "content": "协调业务方确认验收口径，仍有两项问题待确认",
+      "occurred_at": "2026-10-29",
+      "business": "交易渠道",
+      "project": "渠道接入",
+      "contribution": "coordinated",
+      "confidence": 0.81,
+      "source_url": "https://example.feishu.cn/docx/REDACTED",
+      "source_excerpt": "验收口径已同步，待业务方确认两项问题"
+    }
+  ]
+}
